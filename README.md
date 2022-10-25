@@ -1,7 +1,6 @@
 # **Compose Cryptocurrency App**
 
-### A cryptocurrency app build by jetpack compose that shows crptos in a lazy column in coin list screen. In coin details screen, there are clicked coin
-details.<br/> <br/>
+### A cryptocurrency app build by jetpack compose that shows crptos in a lazy column in coin list screen. In coin details screen, there are clicked coin details.<br/> <br/>
 
 ## **Used**
 
