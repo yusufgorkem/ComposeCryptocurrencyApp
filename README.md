@@ -4,7 +4,7 @@
 
 ## **Used**
 
-### MVVM, Coroutines, Retrofit, Flow, Jetpack Compose, Use Cases, Clean Architecture <br/> <br/>
+### MVVM, Coroutines, Retrofit, Flow, Jetpack Compose, Dagger-Hilt, Use Cases, Clean Architecture <br/> <br/>
 
 ## **Screenshots**
 ![Screenshot_20221024_192030](https://user-images.githubusercontent.com/111344082/197576388-0d9ada3f-f57f-4b32-9eda-5bfe69938909.png)
